@@ -1,8 +1,8 @@
-# Skills
+# _*Skills*_
 
 Below is a list of my technical skills:
 
-## programming Languages
+## _Programming Languages_
 - Java.
 - C++.
 - C language.
@@ -10,6 +10,6 @@ Below is a list of my technical skills:
 - HTML.
 - CSS.
 
-## collaboration
+## _Collaboration_
 - GitHub.
 - Linkedin.
